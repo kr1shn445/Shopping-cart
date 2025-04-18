@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
-<%@ page import="com.shashi.service.impl.*, com.shashi.service.*"%>
+<%@ page import="com.krish.service.impl.*, com.krish.service.*"%>
 
 <!DOCTYPE html>
 <html>
